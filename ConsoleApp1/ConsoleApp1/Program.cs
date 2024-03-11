@@ -30,6 +30,15 @@ class Program
     
     public static int max(int[] tab)
     {
-        return 1;g
+        int max = -100;
+        foreach (int num in tab)
+        {
+            if (max < num)
+            {
+                max = num;
+            }
+        }
+
+        return max;
     }
 }
