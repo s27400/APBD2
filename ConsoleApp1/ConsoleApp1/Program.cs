@@ -1,6 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 class Program
 {
+    public static int max(int[] tab)
+    {
+        return 1;g
+    }
     public static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
