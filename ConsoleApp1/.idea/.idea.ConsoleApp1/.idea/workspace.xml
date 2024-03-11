@@ -7,14 +7,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cfa18-af19-4c3e-8a92-4fd4b80e1172" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="5d4cfa18-af19-4c3e-8a92-4fd4b80e1172" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/s27400/Desktop/APBD2/APBD2/ConsoleApp1/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/s27400/Desktop/APBD2/APBD2/ConsoleApp1/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="ProjectId" id="2dY0dreBW6hsaQ6MBZ2jX3RpW97" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,12 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1710169796966</updated>
       <workItem from="1710169798083" duration="1371000" />
+      <workItem from="1710173046844" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
